@@ -1,0 +1,9 @@
+tensor=[[[0 for col in range(1)] for row in range(1)] for slice in range(10)]
+dimension=0
+window=5
+wordlist={}
+index2word={}
+dictionaryList=[]
+data=[]
+rows=[]
+cols=[]
